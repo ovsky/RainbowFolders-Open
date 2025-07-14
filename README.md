@@ -1,7 +1,7 @@
 
 # Rainbow Folders 2.5 - Unity Plugin / Custom Fork / Open Source
 
-![Rainbow Folders Screenshot](https://github.com/ovsky/RainbowFoldersFork/blob/b760c9b04ad35abeb9aa7072d42c57c31eb8c42b/Data/Images/rainbow-header.png)
+![Rainbow Folders Screenshot](https://github.com/ovsky/RainbowFolders-Open/blob/b760c9b04ad35abeb9aa7072d42c57c31eb8c42b/Data/Images/rainbow-header.png)
 
 ---
 
@@ -24,7 +24,7 @@
 3.  Select **"Add package from git URL..."**
 4.  Enter the following URL and click "Add" and add **UPM** branch of **Ranibow Folders: *Open Fork***:
     ```
-    [https://github.com/ovsky/RainbowFoldersFork.git#upm](https://github.com/ovsky/RainbowFoldersFork.git#upm)
+    [https://github.com/ovsky/RainbowFolders-Open.git#upm](https://github.com/ovsky/RainbowFolders-Open.git#upm)
     ```
 
 ### Option 2: Manual Installation
@@ -33,7 +33,7 @@
     * Click the green "**Code**" button and select "**Download ZIP**".
     * Or, clone it using git:
         ```bash
-        git clone [https://github.com/ovsky/RainbowFoldersFork.git#upm](https://github.com/ovsky/RainbowFoldersFork.git#upm)
+        git clone [https://github.com/ovsky/RainbowFolders-Open.git#upm](https://github.com/ovsky/RainbowFolders-Open.git#upm)
         ```
 2.  Unzip the downloaded file if necessary.
 3.  Place the entire `RainbowFoldersFork` directory into the `Assets` folder of your Unity project.
