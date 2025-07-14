@@ -1,24 +1,21 @@
 {
     "name": "com.ovsky.rainbowfoldersfork",
+    "displayName": "Rainbow Folders Custom",
     "version": "1.0.0",
-    "displayName": "Rainbow Folders Fork",
-    "description": "Enhanced version of Rainbow Folders, that: \n- is completely free\n- implements part of the functionalities from Rainbow Folders 2\n- has enhanced GUI inspired by Rainbow Folders 2 \n- has a new color picker\n- supports as old versions as Unity 2020.3 LTS and many way more modern!",
-    "unity": "2020.3",
-    "keywords": [
-        "scene",
-        "custom",
-        "folders",
-        "interface",
-        "UI",
-        "GUI",
-        "GUI",
-    ],
-    "author": {
-        "name": "Przemyslaw  Orlowski",
-        "email": "przemek.orlowski@outlook.com",
-        "url": "https://github.com/ovsky/"
+    "author": 
+    {
+        "name": "Przemyslaw Orlowski",
+        "email": "slipster216@gmail.com",
+        "url": "http://jdbtechservices.com/"
     },
-    "documentationUrl": "https://github.com/ovsky/RainbowFoldersFork/blob/main/README.md",
-    "changelogUrl": "https://github.com/ovsky/RainbowFoldersFork/blob/main/CHANGELOG.md",
-    "licensesUrl": "https://github.com/ovsky/RainbowFoldersFork/blob/main/LICENSE.md"
+    "unity": "2019.4",
+    "description": "Enhanced version of Rainbow Folders, that: \n- is completely free\n- implements part of the functionalities from Rainbow Folders 2\n- has enhanced GUI inspired by Rainbow Folders 2 \n- has a new color picker\n- supports as old versions as Unity 2020.3 LTS and many way more modern!",
+    "keywords": 
+    [
+        "Folders",
+        "Interface",
+        "Gui"
+    ],
+    "documentationUrl": "https://docs.google.com/document/d/1tG8uJ14RYiP940IKnWxvAePZHHUnwn9UBb-6O_vAQNw/edit?usp=sharing",
+    "type": "tool"
 }
