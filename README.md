@@ -1,13 +1,11 @@
 
-# Rainbow Folders - Unity Plugin / Custom Fork / Open Source
+# Rainbow Folders 2.5 - Unity Plugin / Custom Fork / Open Source
 
 ![Rainbow Folders Screenshot](https://github.com/ovsky/RainbowFoldersFork/blob/b760c9b04ad35abeb9aa7072d42c57c31eb8c42b/Data/Images/rainbow-header.png)
 
 ---
 
-**Ranibow Folders: Open Fork** is a fork of the free, discontinued Unity editor extension "Rainbow Folders." It allows you to color-code your folders within the Unity Project window, making your project organization more visual and intuitive.</br></br>
-This project is inspired by the paid [Rainbow Folders 2](https://assetstore.unity.com/packages/tools/utilities/rainbow-folders-2-143526) but remains completely free and open-source.
-<br></br>
+**Ranibow Folders: Open Fork** is a fork of the free, discontinued Unity editor extension "Rainbow Folders.", based on version 0.7 and inspired by Rainbow Folders 2. It allows you to color-code your folders within the Unity Project window, making your project organization more visual and intuitive.</br></br>
 
 ## 🌟 Features
 
